@@ -20,18 +20,18 @@ namespace ebstimecms
     "KPSS ÖABT Deneme Sınavları Kitapları"
 };
         public static string[] katid = {
-    "372",
-    "551",
-    "557",
-    "446",
-    "489",
-    "440",
-    "434",
-    "535",
-    "511",
-    "439",
-    "445",
-    "418"
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
 };
         public static DataTable ConvertToDatatble()
         {
